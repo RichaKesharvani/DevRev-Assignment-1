@@ -1,6 +1,6 @@
 # <p align="center" width="100%">1. Utilize DevRev API Task</p>
-## <p align="center">[Source code](https://github.com/Febiecode/DevRev-Assignment/tree/main/1.%20Utilize%20DevRev%20API)
-</p>
+## <p align="center">[Source code](https://github.com/Febiecode/DevRev-Assignment/tree/main/1.%20Utilize%20DevRev%20API)</p>
+
 # <p align="center" width="100%">2. Snap-in Development Challenge Documentation</p>
 
 #### [output snaps](https://github.com/Febiecode/DevRev-Hello-World-Snap-in/blob/main/snaps.pdf)
