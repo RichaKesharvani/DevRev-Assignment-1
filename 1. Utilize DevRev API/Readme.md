@@ -2,11 +2,16 @@
 ## To utilize DevRev API
 
 Environment Variables: Ensure that the .env file is in the root directory and contains the PAT variable.
-``` PAT=your_personal_access_token ```
+```
+PAT=your_personal_access_token
+```
 [Obtain PAT token](https://developer.devrev.ai/about/authentication#generate-a-personal-access-token-pat)
 
 API Endpoint: Verify that the apiEndpoint is correct. The endpoint might differ based on the API version or specific configurations.
-``` https://api.devrev.ai/works.create ```
+
+``` 
+https://api.devrev.ai/works.create
+```
 [DevRev API](https://developer.devrev.ai/api-reference/getting-started)
 
 Payload Details: Ensure that the applies_to_part and owned_by fields are correct and match the expected format for your specific DevRev setup.
