@@ -6,7 +6,7 @@
 2. you’ll want to set up your development environment to connect and interact with the DevRev API.
 3. Refer createWorkItem.js 
 4. Send your first API request eg. `https://api.devrev.ai/works.create` using createWorkItem.js
-5. Login [DevRev](https://app.devrev.ai/login) to see the work created.
+5. [DevRev](https://app.devrev.ai/login) to see the work created.
 
 Environment Variables: Ensure that the .env file is in the root directory and contains the PAT variable.
 ```
