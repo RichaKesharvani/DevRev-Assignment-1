@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+  # Snap-in Development Challenge Documentation
+</p>
+
 #### [output snaps](https://github.com/Febiecode/DevRev-Hello-World-Snap-in/blob/main/snaps.pdf)
 
 ## Step-1: Installation
